@@ -1,0 +1,25 @@
+{
+  "name": "GYMBRO — AI Fitness Tracker & Coach",
+  "short_name": "GYMBRO",
+  "description": "Track workouts, log meals with AI-powered calorie estimation, set goals, and get personalized coaching tips.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait-primary",
+  "categories": ["health", "fitness", "lifestyle"],
+  "icons": [
+    {
+      "src": "/static/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
